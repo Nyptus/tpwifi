@@ -1,7 +1,7 @@
 # tpwifi
 script for auto installation tp-link wifi adapter drivers
 
-#installation procedure
+Installation procedure:
 
 sudo chmod +x /usr/bin/install-wifi
 
